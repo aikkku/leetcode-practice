@@ -11,30 +11,28 @@
  */
 class Solution {
 public:
-    TreeNode* minValueNode(TreeNode* root) {
-        TreeNode* curr = root;
-        while (curr && curr->left) {
-            curr = curr->left;
+    TreeNode* findMinNextNode(TreeNode* root) {
+        while(root and root->left) {
+            root = root->left;
         }
-        return curr;
+
+        return root;
     }
 
-    TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root == nullptr ) return nullptr;
 
-        if(root->val > key) {
-            root->left = deleteNode(root->left, key);
-        } else if(root->val < key) {
-            root->right = deleteNode(root->right, key);
-        } else {
-            if(!root->left) return root->right;
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if(root == nullptr) return nullptr;
+
+        if(root->val > key) root->left = deleteNode(root->left, key);
+        else if(root->val < key) root->right = deleteNode(root->right, key);
+        else {
             if(!root->right) return root->left;
-            TreeNode* minNode = minValueNode(root->right);
+            if(!root->left) return root->right;
+            TreeNode* minNode = findMinNextNode(root -> right);
             root->val = minNode->val;
             root->right = deleteNode(root->right, minNode->val);
         }
 
         return root;
-
     }
 };
