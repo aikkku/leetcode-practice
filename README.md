@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0102-binary-tree-level-order-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aikkku/leetcode-practice/tree/master/0783-search-in-a-binary-search-tree) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0102-binary-tree-level-order-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aikkku/leetcode-practice/tree/master/0783-search-in-a-binary-search-tree) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Math
 |  |
@@ -99,4 +102,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
