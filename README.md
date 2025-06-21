@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/aikkku/leetcode-practice/tree/master/3379-score-of-a-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aikkku/leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aikkku/leetcode-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aikkku/leetcode-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
 | ------- |
@@ -104,10 +106,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aikkku/leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aikkku/leetcode-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Divide and Conquer
 |  |
@@ -133,5 +137,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
