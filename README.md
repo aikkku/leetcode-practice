@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aikkku/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aikkku/leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aikkku/leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aikkku/leetcode-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aikkku/leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aikkku/leetcode-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aikkku/leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aikkku/leetcode-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,9 +160,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aikkku/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/aikkku/leetcode-practice/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aikkku/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
