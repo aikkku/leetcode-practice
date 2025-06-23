@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aikkku/leetcode-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/aikkku/leetcode-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aikkku/leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aikkku/leetcode-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/aikkku/leetcode-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
