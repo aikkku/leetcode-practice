@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/aikkku/leetcode-practice/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/aikkku/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aikkku/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aikkku/leetcode-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
