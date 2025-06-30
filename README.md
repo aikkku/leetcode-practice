@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/aikkku/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/aikkku/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aikkku/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/aikkku/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aikkku/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/aikkku/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aikkku/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Sliding Window
 |  |
