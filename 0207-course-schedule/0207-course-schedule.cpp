@@ -3,16 +3,12 @@ public:
     unordered_map<int, vector<int>> courses;
     unordered_map<int, int> studying;
     int total = 0;
-    bool done = 1;
 
     bool study(int course) {
-        done = 0;
         if(courses.find(course) == courses.end()) {
             courses[course] = {course};
             studying[course] = 2;
             total ++;
-
-            done = 1;
             return 1;
         }
         if(studying.find(course) == studying.end()){
@@ -25,12 +21,10 @@ public:
 
             studying[course] = 2;
             total ++;
-            done = 1;
             return 1;
             
         } else {
             if(studying[course] == 2) {
-                done = 1;
                 return 1;
             }
             return 0;
@@ -44,15 +38,11 @@ public:
 
         for(vector<int> p : prerequisites) {
             study(p[0]);
-            // if() cout<<"FUN ";
-            // else cout<<"SAD ";
             if(total >= numCourses) return true;
         }
         if(courses.size() == total) {
-            // cout<<"DOOONE!!!";
             return true;
         }
-        // cout<<courses.size();
         return false;
     }
 };
