@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/aikkku/leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aikkku/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/aikkku/leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aikkku/leetcode-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aikkku/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
