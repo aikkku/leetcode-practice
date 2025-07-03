@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aikkku/leetcode-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aikkku/leetcode-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Sorting
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aikkku/leetcode-practice/tree/master/0213-house-robber-ii) |
