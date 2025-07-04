@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/aikkku/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/aikkku/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aikkku/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
