@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2202-sum-of-k-mirror-numbers](https://github.com/aikkku/leetcode-practice/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/aikkku/leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aikkku/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aikkku/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/aikkku/leetcode-practice/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0191-number-of-1-bits](https://github.com/aikkku/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/aikkku/leetcode-practice/tree/master/0338-counting-bits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aikkku/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aikkku/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Counting
 |  |
 | ------- |
@@ -319,4 +321,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aikkku/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aikkku/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
