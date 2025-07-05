@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1036-rotting-oranges](https://github.com/aikkku/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/aikkku/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aikkku/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aikkku/leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aikkku/leetcode-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/aikkku/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aikkku/leetcode-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aikkku/leetcode-practice/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/aikkku/leetcode-practice/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aikkku/leetcode-practice/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
