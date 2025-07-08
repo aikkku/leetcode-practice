@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aikkku/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aikkku/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aikkku/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aikkku/leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aikkku/leetcode-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0374-guess-number-higher-or-lower](https://github.com/aikkku/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aikkku/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aikkku/leetcode-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Interactive
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aikkku/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aikkku/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aikkku/leetcode-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aikkku/leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aikkku/leetcode-practice/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0338-counting-bits](https://github.com/aikkku/leetcode-practice/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/1250-longest-common-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aikkku/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aikkku/leetcode-practice/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aikkku/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
