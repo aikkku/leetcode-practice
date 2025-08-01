@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/aikkku/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aikkku/leetcode-practice/tree/master/0213-house-robber-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/aikkku/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aikkku/leetcode-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/aikkku/leetcode-practice/tree/master/0322-coin-change) |
