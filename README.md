@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aikkku/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aikkku/leetcode-practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/aikkku/leetcode-practice/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aikkku/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/aikkku/leetcode-practice/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aikkku/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aikkku/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aikkku/leetcode-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aikkku/leetcode-practice/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Interactive
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/aikkku/leetcode-practice/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aikkku/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aikkku/leetcode-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aikkku/leetcode-practice/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aikkku/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aikkku/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |
