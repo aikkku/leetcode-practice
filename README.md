@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aikkku/leetcode-practice/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/aikkku/leetcode-practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/aikkku/leetcode-practice/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aikkku/leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aikkku/leetcode-practice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/aikkku/leetcode-practice/tree/master/1020-longest-turbulent-subarray) |
@@ -433,4 +435,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/aikkku/leetcode-practice/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
