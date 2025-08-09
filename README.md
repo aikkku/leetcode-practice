@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/aikkku/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aikkku/leetcode-practice/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aikkku/leetcode-practice/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aikkku/leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aikkku/leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aikkku/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aikkku/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
