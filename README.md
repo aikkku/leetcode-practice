@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aikkku/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aikkku/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
