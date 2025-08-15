@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aikkku/leetcode-practice/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0191-number-of-1-bits](https://github.com/aikkku/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aikkku/leetcode-practice/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/aikkku/leetcode-practice/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aikkku/leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aikkku/leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aikkku/leetcode-practice/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aikkku/leetcode-practice/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aikkku/leetcode-practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/aikkku/leetcode-practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
