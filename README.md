@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/aikkku/leetcode-practice/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aikkku/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/aikkku/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aikkku/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/aikkku/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/aikkku/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aikkku/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aikkku/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aikkku/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aikkku/leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
