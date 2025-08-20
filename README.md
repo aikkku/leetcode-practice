@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aikkku/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/aikkku/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aikkku/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aikkku/leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/aikkku/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aikkku/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/aikkku/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/aikkku/leetcode-practice/tree/master/0940-fruit-into-baskets) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/aikkku/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aikkku/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aikkku/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/aikkku/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/aikkku/leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/aikkku/leetcode-practice/tree/master/1020-longest-turbulent-subarray) |
