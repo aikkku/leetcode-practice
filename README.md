@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aikkku/leetcode-practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aikkku/leetcode-practice/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aikkku/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aikkku/leetcode-practice/tree/master/0040-combination-sum-ii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aikkku/leetcode-practice/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aikkku/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aikkku/leetcode-practice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aikkku/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aikkku/leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/aikkku/leetcode-practice/tree/master/0125-valid-palindrome) |
