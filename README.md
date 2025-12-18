@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/aikkku/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/aikkku/leetcode-practice/tree/master/0155-min-stack) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aikkku/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/aikkku/leetcode-practice/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/aikkku/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aikkku/leetcode-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aikkku/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
