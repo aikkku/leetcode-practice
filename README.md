@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/aikkku/leetcode-practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aikkku/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aikkku/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aikkku/leetcode-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aikkku/leetcode-practice/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aikkku/leetcode-practice/tree/master/0039-combination-sum) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0015-3sum](https://github.com/aikkku/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aikkku/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aikkku/leetcode-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aikkku/leetcode-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aikkku/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aikkku/leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
