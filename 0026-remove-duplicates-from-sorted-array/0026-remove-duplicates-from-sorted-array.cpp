@@ -1,17 +1,23 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        int i = 1, j = 1;
-
-        while(j < nums.size()) {
-            if(nums[i] < nums[j] and nums[i - 1] < nums[j]) {
-                nums[i] = nums[j];
-                i++;
+        int L = 1, R = 2;
+        while(R < nums.size()) {
+            while(L < nums.size() and nums[L] > nums[L - 1]) {
+                L++;
+                R++;
             }
-            if(nums[i] > nums[i-1]) i++;
-            j++;
+            while(R < nums.size() and nums[R] <= nums[L]) {
+                R++;
+            }
+
+            if(R < nums.size()) nums[L] = nums[R];
         }
 
-        return i + (nums[i - 1] < nums[j-1]);
+        if(nums.size() == 2) {
+            if(nums[0] < nums[1]) return 2;
+        }
+
+        return L;
     }
 };
