@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/aikkku/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/aikkku/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aikkku/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aikkku/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/aikkku/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aikkku/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aikkku/leetcode-practice/tree/master/0155-min-stack) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aikkku/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Depth-First Search
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aikkku/leetcode-practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aikkku/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aikkku/leetcode-practice/tree/master/0342-power-of-four) |
