@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aikkku/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aikkku/leetcode-practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aikkku/leetcode-practice/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/aikkku/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aikkku/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aikkku/leetcode-practice/tree/master/0040-combination-sum-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/aikkku/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aikkku/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/aikkku/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/aikkku/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aikkku/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
