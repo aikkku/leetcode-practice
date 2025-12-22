@@ -2,27 +2,23 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        
-        vector<vector<int>> ans;
+        int L, R = nums.size() - 1;
 
-        for(int l = 0; l < nums.size() - 2; l++) {
-            if(l == 0 or nums[l] != nums[l - 1]){
-                int f = -nums[l];
-                int ll = l + 1;
-                int rr = nums.size() - 1;
-                while(ll < rr) {
-                    if(nums[ll] + nums[rr] == f) {
-                        ans.push_back({nums[l], nums[ll], nums[rr]});
-                        ll++;
-                        while(nums[ll] == nums[ll - 1] and ll < rr) ll++;
-                        rr--;
-                        while(nums[rr] == nums[rr + 1] and ll < rr) rr--;
-                    } else if (nums[ll] + nums[rr] < f) {
-                        ll++;
-                    } else {
-                        rr--;
-                    }
+        vector<vector<int>> ans;
+        for(int i = 0; i < nums.size() - 2; i++) {
+            if(i != 0 and nums[i] == nums[i - 1]) continue;
+            L = i + 1;
+            R = nums.size() - 1;
+            while(L < R) {
+                if(nums[L] + nums[R] == -nums[i]) {
+                    ans.push_back({nums[i], nums[L], nums[R]});
+                    R--;
+                    while(L < R and nums[R] == nums[R + 1]) R--;
+                    L++;
+                    while(L < R and nums[L] == nums[L - 1]) L++;
                 }
+                else if(nums[L] + nums[R] < -nums[i]) L++;
+                else R--;
             }
         }
 
