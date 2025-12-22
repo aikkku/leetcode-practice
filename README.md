@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Doubly-Linked List
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aikkku/leetcode-practice/tree/master/0342-power-of-four) |
