@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
