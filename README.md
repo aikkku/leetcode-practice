@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/aikkku/leetcode-practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0144-binary-tree-preorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aikkku/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aikkku/leetcode-practice/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aikkku/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aikkku/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Bucket Sort
 |  |
 | ------- |
