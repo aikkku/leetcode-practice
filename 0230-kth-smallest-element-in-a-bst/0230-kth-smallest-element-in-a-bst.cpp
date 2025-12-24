@@ -12,24 +12,20 @@
 class Solution {
 public:
     int count = 0;
-    int result = -1;
-
-    void inorder(TreeNode* root, int k) {
-        if (!root || result != -1) return;
-
-        inorder(root->left, k);
-        
+    int answer = 0;
+    
+    void helper(TreeNode* root, int k) {
+        if(!root) return;
+        helper(root->left, k);
         count++;
-        if (count == k) {
-            result = root->val;
+        if(count == k){
+            answer = root->val;
             return;
         }
-
-        inorder(root->right, k);
+        helper(root->right, k);
     }
-
     int kthSmallest(TreeNode* root, int k) {
-        inorder(root, k);
-        return result;
+        helper(root, k);
+        return answer;
     }
 };
