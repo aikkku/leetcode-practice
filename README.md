@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/aikkku/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aikkku/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aikkku/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/aikkku/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aikkku/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/aikkku/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aikkku/leetcode-practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aikkku/leetcode-practice/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/aikkku/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aikkku/leetcode-practice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aikkku/leetcode-practice/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/aikkku/leetcode-practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aikkku/leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aikkku/leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aikkku/leetcode-practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aikkku/leetcode-practice/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/aikkku/leetcode-practice/tree/master/1036-rotting-oranges) |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aikkku/leetcode-practice/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/aikkku/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aikkku/leetcode-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aikkku/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
