@@ -1,25 +1,24 @@
 class Solution {
 public:
-    void helper(vector<vector<int>>& v,vector<int>& temp, vector<int>& nums, int target, int i) {
-        if(i == nums.size()) return;
-        
+    vector<vector<int>> ans;
+
+    void helper(vector<int>& nums, int i, vector<int> temp, int target) {
+        if(target == 0) {
+            ans.push_back(temp);
+            return;
+        }
+        if(i >= nums.size() or target < 0) return;
+
+        helper(nums, i + 1, temp, target);
+
         target -= nums[i];
         temp.push_back(nums[i]);
-        if(target == 0) {
-            v.push_back(temp);
-        } else if(target > 0) {
-            helper(v, temp, nums, target, i);
-        }
+        helper(nums, i, temp, target);
         target += nums[i];
-        temp.pop_back();
-        helper(v, temp, nums, target, i+1);
-
     }
 
     vector<vector<int>> combinationSum(vector<int>& nums, int target) {
-        vector<vector<int>> ans;
-        vector<int> temp;
-        helper(ans, temp, nums, target, 0); 
+        helper(nums, 0, {}, target);
         return ans;
     }
 };
