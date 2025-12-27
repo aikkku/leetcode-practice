@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int rlim;
-    int clim;
-
-    int solve(vector<vector<int>>& obstacleGrid, vector<vector<int>>& v, int r, int c) {
-        if(r == rlim or c == clim or obstacleGrid[r][c] == 1) return 0;
-        if(v[r][c] > 0) return v[r][c];
-        if(r == rlim - 1 and c == clim - 1) return 1;
-        return v[r][c] = solve(obstacleGrid, v, r+1, c) + solve(obstacleGrid, v, r, c+1);
-    }
-
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        rlim = obstacleGrid.size();
-        clim = obstacleGrid[0].size();
-        vector<vector<int>> v(rlim, vector<int>(clim, 0));
-        return solve(obstacleGrid, v, 0, 0);
+        int m = obstacleGrid.size(), n = obstacleGrid[0].size();
+        vector<vector<long long>> v(m + 1, vector<long long>(n + 1, 0));
+
+        v[m - 1][n] = 1;
+
+        for(int i = m - 1; i > -1; i--) {
+            for(int j = n - 1; j > -1; j--) {
+                v[i][j] = (v[i + 1][j] + v[i][j + 1]);
+                if(obstacleGrid[i][j] == 1) v[i][j] = 0;
+            }
+        }
+
+        return v[0][0];
     }
 };
