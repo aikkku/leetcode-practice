@@ -1,16 +1,14 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        vector<int> prev(m, 1);
-        vector<int> cur(m, 1);
-        for(int g = 1; g < n; g++) {
-            cur.resize(m, 1);
-            for(int i = m-2; i > -1; i--) {
-                cur[i] = cur[i+1] + prev[i];
+        vector<vector<int>> v(m, vector<int>(n, 1));
+
+        for(int i = m - 2; i > -1; i--) {
+            for(int j = n - 2; j > -1; j--) {
+                v[i][j] = v[i + 1][j] + v[i][j + 1];
             }
-            prev = cur;
         }
 
-        return cur[0];
+        return v[0][0];
     }
 };
