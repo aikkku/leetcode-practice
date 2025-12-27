@@ -1,17 +1,20 @@
 class Solution {
 public:
-
     int rob(vector<int>& nums) {
-        vector<int> dp(2, 0);
+        int no_rob = 0;
+        int rob = 0;
 
         for(int i = 0; i < nums.size(); i++) {
-            int temp = max(dp[0] + nums[i], dp[1]);
-            dp[0] = temp;
-            swap(dp[0], dp[1]);
+            if(rob + nums[i] > no_rob) {
+                int temp = no_rob;
+                no_rob = rob + nums[i];
+                rob = temp;
+            } else {
+                rob = max(rob, no_rob);
+                no_rob = rob;
+            }
         }
 
-        return max(dp[0], dp[1]);
-
-
+        return max(rob, no_rob);
     }
 };
