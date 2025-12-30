@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aikkku/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/aikkku/leetcode-practice/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/aikkku/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aikkku/leetcode-practice/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aikkku/leetcode-practice/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/aikkku/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aikkku/leetcode-practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aikkku/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/aikkku/leetcode-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aikkku/leetcode-practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/aikkku/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/aikkku/leetcode-practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/aikkku/leetcode-practice/tree/master/0338-counting-bits) |
