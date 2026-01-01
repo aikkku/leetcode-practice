@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/aikkku/leetcode-practice/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/aikkku/leetcode-practice/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/aikkku/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/aikkku/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aikkku/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aikkku/leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0278-first-bad-version](https://github.com/aikkku/leetcode-practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/aikkku/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/aikkku/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aikkku/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aikkku/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/aikkku/leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/aikkku/leetcode-practice/tree/master/1020-longest-turbulent-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/aikkku/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aikkku/leetcode-practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1813-maximum-erasure-value](https://github.com/aikkku/leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aikkku/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0304-range-sum-query-2d-immutable](https://github.com/aikkku/leetcode-practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/aikkku/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aikkku/leetcode-practice/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/aikkku/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aikkku/leetcode-practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aikkku/leetcode-practice/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
