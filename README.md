@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/aikkku/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aikkku/leetcode-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aikkku/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/aikkku/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/aikkku/leetcode-practice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0015-3sum](https://github.com/aikkku/leetcode-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aikkku/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aikkku/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aikkku/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/aikkku/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
