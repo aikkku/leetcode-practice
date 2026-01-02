@@ -19,21 +19,20 @@ public:
             int minn = 1001, mini;
 
             for(int i = 0; i < lists.size(); i++) {
-                if(lists[i] != nullptr and lists[i]->val < minn) {
+                if(lists[i] != nullptr and lists[i]->val <= minn) {
                     minn = lists[i]->val;
                     mini = i;
                 }
             }
             if(minn == 1001) break;
 
-
-            ListNode* dummy = new ListNode(minn);
-            head->next = dummy;
-            head = head->next;
-            lists[mini] = lists[mini]->next;
+            while(lists[mini] and lists[mini]->val == minn) {
+                ListNode* dummy = new ListNode(minn);
+                head->next = dummy;
+                head = head->next;
+                lists[mini] = lists[mini]->next;
+            }
         }
-
-
 
         return ans->next;
     }

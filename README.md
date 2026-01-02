@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/aikkku/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/aikkku/leetcode-practice/tree/master/0190-reverse-bits) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aikkku/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aikkku/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/aikkku/leetcode-practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/aikkku/leetcode-practice/tree/master/0460-lfu-cache) |
@@ -619,4 +622,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aikkku/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
