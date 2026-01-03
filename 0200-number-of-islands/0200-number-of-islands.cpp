@@ -1,28 +1,33 @@
 class Solution {
 public:
-    void drownTheIsland(vector<vector<char>>& grid, int r, int c) {
-        if(r < 0 or r >= grid.size() or c < 0 or c >= grid[0].size() or grid[r][c] == '0') return;
+    int m, n;
+
+    void drown(vector<vector<char>>& grid, int i, int j) {
+        if(i < 0 or j < 0 or i >= m or j >= n
+            or grid[i][j] == '0') return;
         
-        grid[r][c] = '0';
+        grid[i][j] = '0';
 
-        drownTheIsland(grid, r + 1, c);
-        drownTheIsland(grid, r - 1, c);
-        drownTheIsland(grid, r, c + 1);
-        drownTheIsland(grid, r, c - 1);
-
-        return;
+        drown(grid, i + 1, j);
+        drown(grid, i, j + 1);
+        drown(grid, i - 1, j);
+        drown(grid, i, j - 1);
     }
 
     int numIslands(vector<vector<char>>& grid) {
         int ans = 0;
-        for(int i = 0; i < grid.size(); i++) {
-            for(int j = 0; j < grid[0].size(); j++) {
-                if(grid[i][j] == '1'){
+        m = grid.size();
+        n = grid[0].size();
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(grid[i][j] == '1') {
                     ans++;
-                    drownTheIsland(grid, i, j);
+                    drown(grid, i, j);
                 }
             }
         }
+
         return ans;
     }
 };
