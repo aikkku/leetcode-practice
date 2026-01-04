@@ -1,48 +1,46 @@
 class Solution {
+    struct Node{
+        int val;
+        vector<Node*> ns;
+        Node() {}
+    };
 public:
-    unordered_map<int, vector<int>> courses;
-    unordered_map<int, int> studying;
-    int total = 0;
-
-    bool study(int course) {
-        if(courses.find(course) == courses.end()) {
-            courses[course] = {course};
-            studying[course] = 2;
-            total ++;
-            return 1;
+    vector<Node*> v;
+    unordered_set<int> path;
+    unordered_set<int> visited;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        for(int i = 0; i < numCourses; i++) {
+            Node* temp = new Node();
+            temp->val = i;
+            v.push_back(temp);
         }
-        if(studying.find(course) == studying.end()){
-            studying[course] = 1;
-            for(int pre : courses[course]) {
-                if(!study(pre)) {
-                    return false;
-                }
-            }
 
-            studying[course] = 2;
-            total ++;
-            return 1;
-            
-        } else {
-            if(studying[course] == 2) {
-                return 1;
-            }
-            return 0;
+        for(const vector<int>& p : prerequisites) {
+            v[p[0]]->ns.push_back(v[p[1]]);
         }
+
+        for(int i = 0; i < numCourses; i++) {
+            if(!dfs(i)) return false;
+            visited.insert(i);
+            path.erase(i);
+        }
+
+        return true;
     }
 
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        for(vector<int> p : prerequisites) {
-            courses[p[0]].push_back(p[1]);
+    bool dfs(int i) {
+        if(path.count(i)) return false;
+        if(visited.count(i)) return true;
+        Node* temp = v[i];
+        path.insert(i);
+
+        for(int i = 0; i < temp->ns.size(); i++) {
+            if(!dfs(temp->ns[i]->val)) return false;
         }
 
-        for(vector<int> p : prerequisites) {
-            study(p[0]);
-            if(total >= numCourses) return true;
-        }
-        if(courses.size() == total) {
-            return true;
-        }
-        return false;
+        visited.insert(i);
+        path.erase(i);
+
+        return true;
     }
 };
