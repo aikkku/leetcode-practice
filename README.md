@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0125-valid-palindrome](https://github.com/aikkku/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/aikkku/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/aikkku/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aikkku/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/aikkku/leetcode-practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/aikkku/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0560-subarray-sum-equals-k](https://github.com/aikkku/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aikkku/leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aikkku/leetcode-practice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aikkku/leetcode-practice/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/aikkku/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aikkku/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aikkku/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -563,6 +568,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0133-clone-graph](https://github.com/aikkku/leetcode-practice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/aikkku/leetcode-practice/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -635,4 +641,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aikkku/leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
