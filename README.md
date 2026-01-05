@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0208-implement-trie-prefix-tree](https://github.com/aikkku/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/aikkku/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/aikkku/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aikkku/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0279-perfect-squares](https://github.com/aikkku/leetcode-practice/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/aikkku/leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aikkku/leetcode-practice/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/aikkku/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0826-soup-servings](https://github.com/aikkku/leetcode-practice/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/aikkku/leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aikkku/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/aikkku/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aikkku/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/aikkku/leetcode-practice/tree/master/2479-meeting-rooms-iii) |
