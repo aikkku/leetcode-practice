@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aikkku/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aikkku/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/aikkku/leetcode-practice/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aikkku/leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0207-course-schedule](https://github.com/aikkku/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aikkku/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/aikkku/leetcode-practice/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
@@ -649,4 +651,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aikkku/leetcode-practice/tree/master/0399-evaluate-division) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/aikkku/leetcode-practice/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
