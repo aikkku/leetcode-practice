@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/aikkku/leetcode-practice/tree/master/1582-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aikkku/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/aikkku/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/aikkku/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aikkku/leetcode-practice/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0860-design-circular-queue](https://github.com/aikkku/leetcode-practice/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/aikkku/leetcode-practice/tree/master/1582-design-browser-history) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
