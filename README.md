@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1046-max-consecutive-ones-iii](https://github.com/aikkku/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/aikkku/leetcode-practice/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aikkku/leetcode-practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/aikkku/leetcode-practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aikkku/leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aikkku/leetcode-practice/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aikkku/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
