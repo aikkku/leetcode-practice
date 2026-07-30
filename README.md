@@ -669,4 +669,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/aikkku/leetcode-practice/tree/master/0332-reconstruct-itinerary) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aikkku/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
