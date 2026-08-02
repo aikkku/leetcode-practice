@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0005-longest-palindromic-substring](https://github.com/aikkku/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/aikkku/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aikkku/leetcode-practice/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/aikkku/leetcode-practice/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/aikkku/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/aikkku/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/aikkku/leetcode-practice/tree/master/0242-valid-anagram) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0059-spiral-matrix-ii](https://github.com/aikkku/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/aikkku/leetcode-practice/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/aikkku/leetcode-practice/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aikkku/leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aikkku/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0054-spiral-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aikkku/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/aikkku/leetcode-practice/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/aikkku/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/aikkku/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aikkku/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
