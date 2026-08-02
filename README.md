@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/aikkku/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aikkku/leetcode-practice/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/aikkku/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/aikkku/leetcode-practice/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/aikkku/leetcode-practice/tree/master/0078-subsets) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aikkku/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/aikkku/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/aikkku/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aikkku/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aikkku/leetcode-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aikkku/leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/aikkku/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aikkku/leetcode-practice/tree/master/0304-range-sum-query-2d-immutable) |
