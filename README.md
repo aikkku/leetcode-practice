@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0040-combination-sum-ii](https://github.com/aikkku/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/aikkku/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aikkku/leetcode-practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/aikkku/leetcode-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aikkku/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aikkku/leetcode-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aikkku/leetcode-practice/tree/master/0053-maximum-subarray) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aikkku/leetcode-practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aikkku/leetcode-practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aikkku/leetcode-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/aikkku/leetcode-practice/tree/master/0069-sqrtx) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0036-valid-sudoku](https://github.com/aikkku/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aikkku/leetcode-practice/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/aikkku/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/aikkku/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aikkku/leetcode-practice/tree/master/0304-range-sum-query-2d-immutable) |
