@@ -8,14 +8,16 @@ public:
 
         sort(position.begin(), position.end(), greater<int>());
 
-        vector<double> st;
-        for(int i = 0; i < position.size(); i++) {
-            st.push_back((double)(target - position[i]) / cars[position[i]]);
-            while(st.size() >= 2 and st.back() <= st[st.size() - 2]) {
-                st.pop_back();
+        int ans = 1;
+        double prev = (double)(target - position[0]) / cars[position[0]];
+        for(int i = 1; i < position.size(); i++) {
+            double cur = (double)(target - position[i]) / cars[position[i]];
+            if(cur > prev) {
+                prev = cur;
+                ans++;
             }
         }
 
-        return st.size();
+        return ans;
     }
 };
