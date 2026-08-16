@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0747-min-cost-climbing-stairs](https://github.com/aikkku/leetcode-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/aikkku/leetcode-practice/tree/master/0860-design-circular-queue) |
+| [0883-car-fleet](https://github.com/aikkku/leetcode-practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aikkku/leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/aikkku/leetcode-practice/tree/master/0940-fruit-into-baskets) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0150-evaluate-reverse-polish-notation](https://github.com/aikkku/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aikkku/leetcode-practice/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/aikkku/leetcode-practice/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/aikkku/leetcode-practice/tree/master/1582-design-browser-history) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aikkku/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0295-find-median-from-data-stream](https://github.com/aikkku/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aikkku/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0883-car-fleet](https://github.com/aikkku/leetcode-practice/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aikkku/leetcode-practice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0042-trapping-rain-water](https://github.com/aikkku/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aikkku/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/aikkku/leetcode-practice/tree/master/0883-car-fleet) |
 ## Bucket Sort
 |  |
 | ------- |
