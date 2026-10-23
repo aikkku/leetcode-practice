@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/aikkku/leetcode-practice/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/aikkku/leetcode-practice/tree/master/0883-car-fleet) |
+| [0906-walking-robot-simulation](https://github.com/aikkku/leetcode-practice/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aikkku/leetcode-practice/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/aikkku/leetcode-practice/tree/master/0940-fruit-into-baskets) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0567-permutation-in-string](https://github.com/aikkku/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
+| [0906-walking-robot-simulation](https://github.com/aikkku/leetcode-practice/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/aikkku/leetcode-practice/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/aikkku/leetcode-practice/tree/master/1813-maximum-erasure-value) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0059-spiral-matrix-ii](https://github.com/aikkku/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/aikkku/leetcode-practice/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/aikkku/leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0906-walking-robot-simulation](https://github.com/aikkku/leetcode-practice/tree/master/0906-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/aikkku/leetcode-practice/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/aikkku/leetcode-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/aikkku/leetcode-practice/tree/master/2479-meeting-rooms-iii) |
