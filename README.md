@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aikkku/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aikkku/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aikkku/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aikkku/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/aikkku/leetcode-practice/tree/master/0068-text-justification) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aikkku/leetcode-practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aikkku/leetcode-practice/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aikkku/leetcode-practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aikkku/leetcode-practice/tree/master/0066-plus-one) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/aikkku/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aikkku/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/aikkku/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aikkku/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aikkku/leetcode-practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/aikkku/leetcode-practice/tree/master/0049-group-anagrams) |
