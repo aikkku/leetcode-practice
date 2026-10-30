@@ -1,31 +1,29 @@
 class Solution {
 public:
-    string w1, w2;
-
-    map<pair<int, int>, int> memo;
-
-    int helper (int i, int j) {
-        if(memo.contains({i,j})) return memo[{i, j}];
-        if(i < w1.size() and j < w2.size()) {
-            if(w1[i] == w2[j]) {
-                return memo[{i,j}] = helper (i + 1, j + 1);
-            } else {
-                return memo[{i,j}] = 1 + min(helper(i + 1, j + 1), 
-                                            min(    helper(i, j + 1), 
-                                                    helper(i + 1, j)
-                                            )
-                                        );
-            }
-        } else {
-            return max(w1.size() - i, w2.size() - j);
-        }
-    }
-
-
     int minDistance(string word1, string word2) {
-        w1 = word1;
-        w2 = word2;
+        int n = word1.size(), m = word2.size();
 
-        return helper(0, 0);
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+
+        for (int i = 0; i <= n; i++) {
+            dp[i][m] = n - i;
+        }
+
+        for (int i = 0; i <= m; i++) {
+            dp[n][i] = m - i;
+        }
+
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = m - 1; j >= 0; j--) {
+                if (word1[i] == word2[j]) {
+                    dp[i][j] = dp[i + 1][j + 1];
+                } else {
+                    dp[i][j] = 1 + min(dp[i + 1][j + 1],
+                                       min(dp[i][j + 1], dp[i + 1][j]));
+                }
+            }
+        }
+
+        return dp[0][0];
     }
 };
