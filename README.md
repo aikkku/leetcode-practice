@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aikkku/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0636-exclusive-time-of-functions](https://github.com/aikkku/leetcode-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0695-max-area-of-island](https://github.com/aikkku/leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/aikkku/leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0144-binary-tree-preorder-traversal](https://github.com/aikkku/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aikkku/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aikkku/leetcode-practice/tree/master/0155-min-stack) |
+| [0636-exclusive-time-of-functions](https://github.com/aikkku/leetcode-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/aikkku/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/aikkku/leetcode-practice/tree/master/0883-car-fleet) |
 | [1582-design-browser-history](https://github.com/aikkku/leetcode-practice/tree/master/1582-design-browser-history) |
