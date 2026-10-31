@@ -715,4 +715,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/aikkku/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+## K-D Tree
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/aikkku/leetcode-practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
