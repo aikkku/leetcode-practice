@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0412-fizz-buzz](https://github.com/aikkku/leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/aikkku/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aikkku/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/aikkku/leetcode-practice/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/aikkku/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/aikkku/leetcode-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aikkku/leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/aikkku/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/aikkku/leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/aikkku/leetcode-practice/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/aikkku/leetcode-practice/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/aikkku/leetcode-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aikkku/leetcode-practice/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aikkku/leetcode-practice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/aikkku/leetcode-practice/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/aikkku/leetcode-practice/tree/master/0940-fruit-into-baskets) |
+| [1023-time-based-key-value-store](https://github.com/aikkku/leetcode-practice/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aikkku/leetcode-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/aikkku/leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aikkku/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0817-design-hashmap](https://github.com/aikkku/leetcode-practice/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/aikkku/leetcode-practice/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/aikkku/leetcode-practice/tree/master/0860-design-circular-queue) |
+| [1023-time-based-key-value-store](https://github.com/aikkku/leetcode-practice/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/aikkku/leetcode-practice/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aikkku/leetcode-practice/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
